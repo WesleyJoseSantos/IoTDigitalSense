@@ -1,0 +1,8 @@
+{
+    "wifiSsid": "IoT Gateway",
+    "wifiPass": "globall1331",
+    "appHost": "http://192.168.0.101:8081",
+    "senseName": "IoTDigitalSense",
+    "gpioStatusInput": 0,
+    "gpioStatusOutput": 1
+}
